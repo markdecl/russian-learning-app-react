@@ -8,8 +8,16 @@ function App() {
   const [flashcards, setFlashcards] = useState(SAMPLE_FLASHCARDS)
   return (
     <div className="container">
-    <FlashcardList flashcards={flashcards} />
+      <div className="card">
+      <FlashcardList flashcards={flashcards} />
+      </div>
+      <div className="buttons">
+        <button>Darn...</button>
+        <button>Nailed it</button>
+        <button>Next card</button>
+      </div>
     </div>
+
     // <div className="App">
     //   <header className="App-header">
     //     <img src={logo} className="App-logo" alt="logo" />

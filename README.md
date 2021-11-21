@@ -1,3 +1,17 @@
+## Description
+
+## Features
+
+## Tools and technologies used
+
+## Challenges
+
+## If it were a bigger project
+
+## Credits
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

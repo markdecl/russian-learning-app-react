@@ -1,14 +1,16 @@
-## Description
+# Russian-Learning-App-React
 
-## Features
+## Demo:
 
-## Tools and technologies used
+## Features:
 
-## Challenges
+## Tools and technologies used:
 
-## If it were a bigger project
+## Challenges:
 
-## Credits
+## If it were a bigger project:
+
+## Credits:
 
 
 
